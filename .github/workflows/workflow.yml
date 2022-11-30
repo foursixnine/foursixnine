@@ -35,7 +35,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_indepth: yes
+          plugin_followup_indepth: no
           plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -51,7 +51,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
           plugin_reactions_limit_discussions: 100
